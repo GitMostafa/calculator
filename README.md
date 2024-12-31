@@ -1,7 +1,7 @@
 # Calculator Website
 
 ### Live Demo
-https://gitmostafa.github.io/calculator/
+https://mostafa-aboelmagd.github.io/calculator/
 
 ### Description
 * Fully Functional GUI Calculator
